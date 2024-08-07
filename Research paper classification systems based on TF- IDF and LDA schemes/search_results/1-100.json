@@ -1,0 +1,2640 @@
+{
+  "resultsFound": 3574,
+  "results": [
+    {
+      "doi": "10.1016/S0167-739X(17)31765-X",
+      "loadDate": "2017-09-11T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X1731765X",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1731765X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Tai-hoon Kim"
+        },
+        {
+          "order": 2,
+          "name": "Carlos Ramos"
+        },
+        {
+          "order": 3,
+          "name": "Sabah Mohammed"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.034",
+      "loadDate": "2017-07-27T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "159",
+        "last": "162"
+      },
+      "pii": "S0167739X17305253",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Smart City and IoT",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305253?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Rajiv Ranjan"
+        },
+        {
+          "order": 2,
+          "name": "Dhavalkumar Thakker"
+        },
+        {
+          "order": 4,
+          "name": "Rajkumar Buyya"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.032",
+      "loadDate": "2017-07-27T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "495",
+        "last": "498"
+      },
+      "pii": "S0167739X17313912",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A note on exploration of IoT generated big data using semantics",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17313912?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)31393-6",
+      "loadDate": "2017-07-27T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17313936",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17313936?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "L. Gonz\u00e1lez-Manzano"
+        },
+        {
+          "order": 2,
+          "name": "Jos\u00e9 M. de Fuentes"
+        },
+        {
+          "order": 4,
+          "name": "C. Camara"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.07.018",
+      "loadDate": "2017-07-26T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "136",
+        "last": "148"
+      },
+      "pii": "S0167739X16307798",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Encryption by Heart (EbH)\u2014Using ECG for time-invariant symmetric key generation",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16307798?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Marcus Carvalho"
+        },
+        {
+          "order": 2,
+          "name": "Daniel A. Menasc\u00e9"
+        },
+        {
+          "order": 3,
+          "name": "Francisco Brasileiro"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.07.019",
+      "loadDate": "2017-07-26T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "97",
+        "last": "111"
+      },
+      "pii": "S0167739X16308561",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Capacity planning for IaaS cloud providers offering multiple service classes",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16308561?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Jiwei Xu"
+        },
+        {
+          "order": 2,
+          "name": "Tao Wang"
+        },
+        {
+          "order": 5,
+          "name": "Hua Zhong"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.026",
+      "loadDate": "2017-07-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "87",
+        "last": "96"
+      },
+      "pii": "S0167739X17301218",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Efficient image restoration of virtual machines with reference count based rewriting and caching",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301218?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Zaheer Khan"
+        },
+        {
+          "order": 2,
+          "name": "Zeeshan Pervez"
+        },
+        {
+          "order": 3,
+          "name": "Abdul Ghafoor Abbasi"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.031",
+      "loadDate": "2017-07-18T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "112",
+        "last": "135"
+      },
+      "pii": "S0167739X17313687",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Towards a secure service provisioning framework in a Smart city environment",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17313687?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Muhammad Babar"
+        },
+        {
+          "order": 2,
+          "name": "Fahim Arif"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.07.029",
+      "loadDate": "2017-07-15T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "65",
+        "last": "76"
+      },
+      "pii": "S0167739X17308993",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Smart urban planning using Big Data analytics to contend with the interoperability in Internet of Things",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17308993?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Yu Lu"
+        },
+        {
+          "order": 2,
+          "name": "Shiqian Wu"
+        },
+        {
+          "order": 6,
+          "name": "Dong Sun Park"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.07.013",
+      "loadDate": "2017-07-15T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "149",
+        "last": "160"
+      },
+      "pii": "S0167739X17314772",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Exploring finger vein based personal authentication for secure IoT",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17314772?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Mohammad Reza Mesbahi"
+        },
+        {
+          "order": 2,
+          "name": "Amir Masoud Rahmani"
+        },
+        {
+          "order": 3,
+          "name": "Mehdi Hosseinzadeh"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.011",
+      "loadDate": "2017-07-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "77",
+        "last": "86"
+      },
+      "pii": "S0167739X17312396",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Highly reliable architecture using the 80/20 rule in cloud computing datacenters",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17312396?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Shang-Chia Wei"
+        },
+        {
+          "order": 2,
+          "name": "Wei-Chang Yeh"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.019",
+      "loadDate": "2017-06-29T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "12",
+        "last": "28"
+      },
+      "pii": "S0167739X17303941",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Resource allocation decision model for dependable and cost-effective grid applications based on Grid Bank",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303941?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Nasser Ghadiri"
+        },
+        {
+          "order": 2,
+          "name": "Meysam Ghaffari"
+        },
+        {
+          "order": 3,
+          "name": "Mohammad Amin Nikbakht"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.010",
+      "loadDate": "2017-06-29T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "29",
+        "last": "39"
+      },
+      "pii": "S0167739X17312359",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "BigFCM: Fast, precise and scalable FCM on hadoop",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17312359?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Shahid Raza"
+        },
+        {
+          "order": 2,
+          "name": "T\u00f3mas Helgason"
+        },
+        {
+          "order": 4,
+          "name": "Thiemo Voigt"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.008",
+      "loadDate": "2017-06-28T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "40",
+        "last": "51"
+      },
+      "pii": "S0167739X17312360",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "SecureSense: End-to-end secure communication architecture for the cloud-connected Internet of Things",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17312360?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Ting Yang"
+        },
+        {
+          "order": 2,
+          "name": "Haibo Pen"
+        },
+        {
+          "order": 4,
+          "name": "Albert Y. Zomaya"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.047",
+      "loadDate": "2017-06-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "11"
+      },
+      "pii": "S0167739X17310579",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "An energy-efficient virtual machine placement and route scheduling scheme in data center networks",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17310579?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Sergio F. Ochoa"
+        },
+        {
+          "order": 2,
+          "name": "Giancarlo Fortino"
+        },
+        {
+          "order": 3,
+          "name": "Giuseppe Di Fatta"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.040",
+      "loadDate": "2017-06-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "82",
+        "last": "84"
+      },
+      "pii": "S0167739X17311196",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Cyber-physical systems, internet of things and big data",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17311196?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Malcolm Atkinson"
+        },
+        {
+          "order": 2,
+          "name": "Sandra Gesing"
+        },
+        {
+          "order": 4,
+          "name": "Ian Taylor"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.041",
+      "loadDate": "2017-06-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "216",
+        "last": "227"
+      },
+      "pii": "S0167739X17311202",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Scientific workflows: Past, present and future",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17311202?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)31122-6",
+      "loadDate": "2017-06-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17311226",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17311226?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)31125-1",
+      "loadDate": "2017-06-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii",
+        "last": "iv"
+      },
+      "pii": "S0167739X17311251",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Contents",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17311251?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Xianzhang Chen"
+        },
+        {
+          "order": 2,
+          "name": "Edwin H. -M. Sha"
+        },
+        {
+          "order": 6,
+          "name": "Qingfeng Zhuge"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.06.012",
+      "loadDate": "2017-06-19T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "52",
+        "last": "64"
+      },
+      "pii": "S0167739X1630588X",
+      "publicationDate": "2017-12-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Refinery swap: An efficient swap mechanism for hybrid DRAM\u2013NVM systems",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1630588X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 77"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Franco Cicirelli"
+        },
+        {
+          "order": 2,
+          "name": "Antonio Guerrieri"
+        },
+        {
+          "order": 4,
+          "name": "Andrea Vinci"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.034",
+      "loadDate": "2017-06-15T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "106",
+        "last": "118"
+      },
+      "pii": "S0167739X16308342",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "An edge-based platform for dynamic Smart City applications",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16308342?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Xiaoqun Yuan"
+        },
+        {
+          "order": 2,
+          "name": "Geyong Min"
+        },
+        {
+          "order": 5,
+          "name": "Qing Fang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.046",
+      "loadDate": "2017-06-03T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "63",
+        "last": "72"
+      },
+      "pii": "S0167739X16307750",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A game theory-based dynamic resource allocation strategy in Geo-distributed Datacenter Clouds",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16307750?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Richard Knepper"
+        },
+        {
+          "order": 2,
+          "name": "Matthew Standish"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.031",
+      "loadDate": "2017-05-29T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "92",
+        "last": "97"
+      },
+      "pii": "S0167739X17310567",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Forward Observer system for radar data workflows: Big data management in the field",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17310567?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Jo\u00e3o\u00a0Paulo\u00a0Just Peixoto"
+        },
+        {
+          "order": 2,
+          "name": "Daniel\u00a0G. Costa"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.027",
+      "loadDate": "2017-05-27T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "51",
+        "last": "62"
+      },
+      "pii": "S0167739X17309652",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Wireless visual sensor networks for smart city applications:A relevance-based approach for multiple sinks mobility",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17309652?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Florin Pop"
+        },
+        {
+          "order": 2,
+          "name": "Xiaomin Zhu"
+        },
+        {
+          "order": 3,
+          "name": "Laurence T. Yang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.010",
+      "loadDate": "2017-05-26T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "86",
+        "last": "89"
+      },
+      "pii": "S0167739X1730972X",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "MidHDC: Advanced topics on middleware services for heterogeneous distributed computing. Part 2",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1730972X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30974-3",
+      "loadDate": "2017-05-26T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17309743",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17309743?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30977-9",
+      "loadDate": "2017-05-26T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii",
+        "last": "v"
+      },
+      "pii": "S0167739X17309779",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17309779?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Helan Liang"
+        },
+        {
+          "order": 2,
+          "name": "Yanhua Du"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.019",
+      "loadDate": "2017-05-23T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "119",
+        "last": "135"
+      },
+      "pii": "S0167739X16305325",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Dynamic service selection with QoS constraints and inter-service correlations using cooperative coevolution",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16305325?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Absalom E. Ezugwu"
+        },
+        {
+          "order": 2,
+          "name": "Aderemi O. Adewumi"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.024",
+      "loadDate": "2017-05-23T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "33",
+        "last": "50"
+      },
+      "pii": "S0167739X17301838",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Soft sets based symbiotic organisms search algorithm for resource discovery in cloud computing environment",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301838?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Evangelos Pournaras"
+        },
+        {
+          "order": 2,
+          "name": "Mark Yao"
+        },
+        {
+          "order": 3,
+          "name": "Dirk Helbing"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.018",
+      "loadDate": "2017-05-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "73",
+        "last": "91"
+      },
+      "pii": "S0167739X16303946",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Self-regulating supply\u2013demand systems",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16303946?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "N. Nedjah"
+        },
+        {
+          "order": 2,
+          "name": "R. S. Wyant"
+        },
+        {
+          "order": 4,
+          "name": "B. B. Gupta"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.008",
+      "loadDate": "2017-05-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "18",
+        "last": "32"
+      },
+      "pii": "S0167739X17301085",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Efficient yet robust biometric iris matching on smart cards for data high security and privacy",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301085?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Luan Teylo"
+        },
+        {
+          "order": 2,
+          "name": "Ubiratam de\u00a0Paula"
+        },
+        {
+          "order": 5,
+          "name": "L\u00facia\u00a0M. A. Drummond"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.017",
+      "loadDate": "2017-05-18T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "17"
+      },
+      "pii": "S0167739X17309883",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A hybrid evolutionary algorithm for task scheduling and data assignment of data-intensive scientific workflows on clouds",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17309883?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "B. Prathusha Laxmi"
+        },
+        {
+          "order": 2,
+          "name": "A. Chilambuchelvan"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.015",
+      "loadDate": "2017-05-17T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "98",
+        "last": "105"
+      },
+      "pii": "S0167739X1730986X",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "GSR: Geographic Secured Routing using SHA-3 algorithm for node and message authentication in wireless sensor networks",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1730986X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "David Ant\u00f3n"
+        },
+        {
+          "order": 2,
+          "name": "Gregorij Kurillo"
+        },
+        {
+          "order": 5,
+          "name": "Ruzena Bajcsy"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.006",
+      "loadDate": "2017-05-15T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "72",
+        "last": "81"
+      },
+      "pii": "S0167739X16303806",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Real-time communication for Kinect-based telerehabilitation",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16303806?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Alejandro Erickson"
+        },
+        {
+          "order": 2,
+          "name": "Iain A. Stewart"
+        },
+        {
+          "order": 4,
+          "name": "Javier Navaridas"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.004",
+      "loadDate": "2017-05-11T00:00:00.000Z",
+      "openAccess": true,
+      "pages": {
+        "first": "58",
+        "last": "71"
+      },
+      "pii": "S0167739X17300134",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Improved routing algorithms in the dual-port datacenter networks HCN and BCN",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300134?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Javier Lopez"
+        },
+        {
+          "order": 2,
+          "name": "Ruben Rios"
+        },
+        {
+          "order": 4,
+          "name": "Guilin Wang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.045",
+      "loadDate": "2017-05-08T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "46",
+        "last": "57"
+      },
+      "pii": "S0167739X16306719",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Evolving privacy: From sensors to the Internet of Things",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16306719?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "C. Badii"
+        },
+        {
+          "order": 2,
+          "name": "P. Bellini"
+        },
+        {
+          "order": 6,
+          "name": "M. Paolucci"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.05.001",
+      "loadDate": "2017-05-06T00:00:00.000Z",
+      "openAccess": true,
+      "pages": {
+        "first": "14",
+        "last": "29"
+      },
+      "pii": "S0167739X17302273",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Analysis and assessment of a knowledge based smart city architecture providing service APIs",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302273?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Xing Wang"
+        },
+        {
+          "order": 2,
+          "name": "Wei Wang"
+        },
+        {
+          "order": 6,
+          "name": "Xiangliang Zhang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.041",
+      "loadDate": "2017-05-06T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "30",
+        "last": "45"
+      },
+      "pii": "S0167739X17307720",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Characterizing Android apps\u2019 behavior for effective detection of malapps at large scale",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17307720?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Wenting Shen"
+        },
+        {
+          "order": 2,
+          "name": "Guangyang Yang"
+        },
+        {
+          "order": 6,
+          "name": "Rong Hao"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.029",
+      "loadDate": "2017-04-25T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "136",
+        "last": "145"
+      },
+      "pii": "S0167739X16304939",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Remote data possession checking with privacy-preserving authenticators for cloud storage",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16304939?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Gaetano F. Anastasi"
+        },
+        {
+          "order": 2,
+          "name": "Emanuele Carlini"
+        },
+        {
+          "order": 4,
+          "name": "Patrizio Dazzi"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.026",
+      "loadDate": "2017-04-25T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "13"
+      },
+      "pii": "S0167739X17306659",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "QoS-aware genetic Cloud Brokering",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17306659?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "C\u00e9sar Acevedo"
+        },
+        {
+          "order": 2,
+          "name": "Porfidio Hern\u00e1ndez"
+        },
+        {
+          "order": 4,
+          "name": "V\u00edctor M\u00e9ndez"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.025",
+      "loadDate": "2017-04-24T00:00:00.000Z",
+      "openAccess": true,
+      "pages": {
+        "first": "51",
+        "last": "62"
+      },
+      "pii": "S0167739X17306507",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A Critical Path File Location (CPFL) algorithm for data-aware multiworkflow scheduling on HPC clusters",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17306507?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Qin Liu"
+        },
+        {
+          "order": 2,
+          "name": "Avinash Srinivasan"
+        },
+        {
+          "order": 4,
+          "name": "Guojun Wang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.033",
+      "loadDate": "2017-04-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "206",
+        "last": "207"
+      },
+      "pii": "S0167739X17305241",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Preface: Security and privacy in big data clouds",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305241?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30527-7",
+      "loadDate": "2017-04-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17305277",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305277?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30530-7",
+      "loadDate": "2017-04-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii",
+        "last": "iv"
+      },
+      "pii": "S0167739X17305307",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Contents",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305307?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Dalu Zhang"
+        },
+        {
+          "order": 2,
+          "name": "Dejiang Zhou"
+        },
+        {
+          "order": 3,
+          "name": "Xiang Jin"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.027",
+      "loadDate": "2017-04-21T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "32",
+        "last": "40"
+      },
+      "pii": "S0167739X17306660",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Chunk mode VM migration in XIA and triple-way pipeline for performance optimization",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17306660?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30618-0",
+      "loadDate": "2017-04-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17306180",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17306180?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30621-0",
+      "loadDate": "2017-04-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii"
+      },
+      "pii": "S0167739X17306210",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Contents",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17306210?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Tan Li"
+        },
+        {
+          "order": 2,
+          "name": "Yufei Ren"
+        },
+        {
+          "order": 4,
+          "name": "Shudong Jin"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.001",
+      "loadDate": "2017-04-19T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "41",
+        "last": "50"
+      },
+      "pii": "S0167739X16305799",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Analysis of NUMA effects in modern multicore systems for the design of high-performance data transfer applications",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16305799?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Yu Tang"
+        },
+        {
+          "order": 2,
+          "name": "Hailong Sun"
+        },
+        {
+          "order": 4,
+          "name": "Xudong Liu"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.016",
+      "loadDate": "2017-04-17T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "20",
+        "last": "31"
+      },
+      "pii": "S0167739X17305940",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Achieving convergent causal consistency and high availability for cloud storage",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305940?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Yongmao Ren"
+        },
+        {
+          "order": 2,
+          "name": "Jun Li"
+        },
+        {
+          "order": 6,
+          "name": "Haibo Wu"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.013",
+      "loadDate": "2017-04-15T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "12",
+        "last": "19"
+      },
+      "pii": "S0167739X17305861",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Modeling content transfer performance in information-centric networking",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305861?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Chemseddine Nabti"
+        },
+        {
+          "order": 2,
+          "name": "Hamida Seba"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.04.005",
+      "loadDate": "2017-04-13T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "63",
+        "last": "75"
+      },
+      "pii": "S0167739X17305435",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Querying massive graph data: A compress and search approach",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17305435?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Mark Tennant"
+        },
+        {
+          "order": 2,
+          "name": "Frederic Stahl"
+        },
+        {
+          "order": 4,
+          "name": "Jo\u00e3o B\u00e1rtolo Gomes"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.026",
+      "loadDate": "2017-04-09T00:00:00.000Z",
+      "openAccess": true,
+      "pages": {
+        "first": "187",
+        "last": "199"
+      },
+      "pii": "S0167739X17304685",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Scalable real-time classification of data streams with concept drift",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17304685?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Weihong Chen"
+        },
+        {
+          "order": 2,
+          "name": "Guoqi Xie"
+        },
+        {
+          "order": 6,
+          "name": "Keqin Li"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.008",
+      "loadDate": "2017-04-05T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "11"
+      },
+      "pii": "S0167739X16304411",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Efficient task scheduling for budget constrained parallel applications on heterogeneous cloud computing systems",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16304411?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Hari Singh"
+        },
+        {
+          "order": 2,
+          "name": "Seema Bawa"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.028",
+      "loadDate": "2017-04-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "32",
+        "last": "43"
+      },
+      "pii": "S0167739X17304880",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A MapReduce-based scalable discovery and indexing of structured big data",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17304880?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Feng Gao"
+        },
+        {
+          "order": 2,
+          "name": "Muhammad Intizar Ali"
+        },
+        {
+          "order": 4,
+          "name": "Alessandra Mileo"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.002",
+      "loadDate": "2017-03-30T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "561",
+        "last": "581"
+      },
+      "pii": "S0167739X1730331X",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Automated discovery and integration of semantic urban data streams: The ACEIS middleware",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1730331X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Jianjiang Li"
+        },
+        {
+          "order": 2,
+          "name": "Peng Zhang"
+        },
+        {
+          "order": 6,
+          "name": "Lizhe Wang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.019",
+      "loadDate": "2017-03-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "13",
+        "last": "21"
+      },
+      "pii": "S0167739X1630557X",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A data-check based distributed storage model for storing hot temporary data",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1630557X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Ping Li"
+        },
+        {
+          "order": 2,
+          "name": "Jin Li"
+        },
+        {
+          "order": 7,
+          "name": "Kai Chen"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.006",
+      "loadDate": "2017-03-22T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "76",
+        "last": "85"
+      },
+      "pii": "S0167739X17302005",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Multi-key privacy-preserving deep learning in cloud computing",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302005?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Huakang Li"
+        },
+        {
+          "order": 2,
+          "name": "Zheng Xu"
+        },
+        {
+          "order": 5,
+          "name": "Kim-Kwang Raymond Choo"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.003",
+      "loadDate": "2017-03-21T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "510",
+        "last": "518"
+      },
+      "pii": "S0167739X17303321",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "An optimized approach for massive web page classification using entity similarity based on semantic network",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303321?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Libing Wu"
+        },
+        {
+          "order": 2,
+          "name": "Yubo Zhang"
+        },
+        {
+          "order": 4,
+          "name": "Debiao He"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.007",
+      "loadDate": "2017-03-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "22",
+        "last": "31"
+      },
+      "pii": "S0167739X16305313",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Efficient and secure identity-based encryption scheme with equality test in cloud computing",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16305313?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Roger da Silva Machado"
+        },
+        {
+          "order": 2,
+          "name": "Ricardo Borges Almeida"
+        },
+        {
+          "order": 6,
+          "name": "Adenauer Corr\u00eaa Yamin"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.005",
+      "loadDate": "2017-03-18T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "12"
+      },
+      "pii": "S0167739X1630509X",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "EXEHDA-HM: A compositional approach to explore contextual information on hybrid models",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X1630509X?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Prem Prakash Jayaraman"
+        },
+        {
+          "order": 2,
+          "name": "Xuechao Yang"
+        },
+        {
+          "order": 5,
+          "name": "Xun Yi"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.001",
+      "loadDate": "2017-03-18T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "540",
+        "last": "549"
+      },
+      "pii": "S0167739X17303308",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Privacy preserving Internet of Things: From privacy techniques to a blueprint architecture and efficient implementation",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303308?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Bruno Guazzelli Batista"
+        },
+        {
+          "order": 2,
+          "name": "Carlos Henrique Gomes Ferreira"
+        },
+        {
+          "order": 5,
+          "name": "Maycon Leone Maciel Peixoto"
+        }
+      ],
+      "doi": "10.1016/j.future.2016.11.018",
+      "loadDate": "2017-03-17T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "115"
+      },
+      "pii": "S0167739X16306513",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Corrigendum to \u201cA QoS-driven approach for cloud computing addressing attributes of performance and security\u201d [Future Gener. Comput. Syst. 68 (March) (2017) 260\u2013274]",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16306513?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Cristina Mu\u00f1oz"
+        },
+        {
+          "order": 2,
+          "name": "Pierre Leone"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.021",
+      "loadDate": "2017-03-09T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "108",
+        "last": "127"
+      },
+      "pii": "S0167739X17302200",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A Distributed Event-Based System based on Compressed Fragmented-Iterated Bloom Filters",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302200?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Marisol Garcia-Valls"
+        },
+        {
+          "order": 2,
+          "name": "Paolo Bellavista"
+        },
+        {
+          "order": 3,
+          "name": "Aniruddha Gokhale"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.037",
+      "loadDate": "2017-03-09T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "171",
+        "last": "176"
+      },
+      "pii": "S0167739X17302819",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Reliable software technologies and communication middleware: A perspective and evolution directions for cyber-physical systems, mobility, and cloud computing",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302819?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30283-2",
+      "loadDate": "2017-03-09T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17302832",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302832?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30286-8",
+      "loadDate": "2017-03-09T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii",
+        "last": "iv"
+      },
+      "pii": "S0167739X17302868",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Contents",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302868?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Jie Guo"
+        },
+        {
+          "order": 2,
+          "name": "Bin Song"
+        },
+        {
+          "order": 5,
+          "name": "Laurence T. Yang"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.03.004",
+      "loadDate": "2017-03-06T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "519",
+        "last": "527"
+      },
+      "pii": "S0167739X17303333",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Object detection among multimedia big data in the compressive measurement domain under mobile distributed architecture",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303333?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "R. Vidhyalakshmi"
+        },
+        {
+          "order": 2,
+          "name": "Vikas Kumar"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.039",
+      "loadDate": "2017-03-04T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "23",
+        "last": "36"
+      },
+      "pii": "S0167739X17302960",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "CORE framework for evaluating the reliability of SaaS products",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302960?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Simon Scheider"
+        },
+        {
+          "order": 2,
+          "name": "Frank O. Ostermann"
+        },
+        {
+          "order": 3,
+          "name": "Benjamin Adams"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.046",
+      "loadDate": "2017-03-02T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "11",
+        "last": "22"
+      },
+      "pii": "S0167739X17303047",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Why good data analysts need to be critical synthesists. Determining the role of semantics in data analysis",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303047?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "John K. Tarus"
+        },
+        {
+          "order": 2,
+          "name": "Zhendong Niu"
+        },
+        {
+          "order": 3,
+          "name": "Abdallah Yousif"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.049",
+      "loadDate": "2017-03-02T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "37",
+        "last": "48"
+      },
+      "pii": "S0167739X17303254",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A hybrid knowledge-based recommender system for e-learning based on ontology and sequential pattern mining",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17303254?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Pasu Poonpakdee"
+        },
+        {
+          "order": 2,
+          "name": "Giuseppe Di Fatta"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.033",
+      "loadDate": "2017-03-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "85",
+        "last": "93"
+      },
+      "pii": "S0167739X17302649",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Robust and efficient membership management in large-scale dynamic networks",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302649?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Brijesh Kashyap Chejerla"
+        },
+        {
+          "order": 2,
+          "name": "Sanjay. K. Madria"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.034",
+      "loadDate": "2017-03-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "145",
+        "last": "157"
+      },
+      "pii": "S0167739X17302650",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "QoS guaranteeing robust scheduling in attack resilient cloud integrated cyber physical system",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302650?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Samer Al-Kiswany"
+        },
+        {
+          "order": 2,
+          "name": "Lauro B. Costa"
+        },
+        {
+          "order": 5,
+          "name": "Matei Ripeanu"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.038",
+      "loadDate": "2017-02-28T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "423",
+        "last": "437"
+      },
+      "pii": "S0167739X17302959",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A cross-layer optimized storage system for workflow applications",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302959?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Sarunya Pumma"
+        },
+        {
+          "order": 2,
+          "name": "Wu-chun Feng"
+        },
+        {
+          "order": 5,
+          "name": "Tiranee Achalakul"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.040",
+      "loadDate": "2017-02-28T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "65",
+        "last": "77"
+      },
+      "pii": "S0167739X17302972",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A runtime estimation framework for ALICE",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302972?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Raimundo D\u00edaz-D\u00edaz"
+        },
+        {
+          "order": 2,
+          "name": "Luis Mu\u00f1oz"
+        },
+        {
+          "order": 3,
+          "name": "Daniel P\u00e9rez-Gonz\u00e1lez"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.032",
+      "loadDate": "2017-02-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "198",
+        "last": "214"
+      },
+      "pii": "S0167739X17301553",
+      "publicationDate": "2017-11-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Business model analysis of public services operating in the smart city ecosystem: The case of SmartSantander",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301553?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 76"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "M. Janetschek"
+        },
+        {
+          "order": 2,
+          "name": "R. Prodan"
+        },
+        {
+          "order": 3,
+          "name": "S. Benedict"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.029",
+      "loadDate": "2017-02-20T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "330",
+        "last": "347"
+      },
+      "pii": "S0167739X17302571",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A workflow runtime environment for manycore parallel architectures",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302571?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Rafael Ferreira da Silva"
+        },
+        {
+          "order": 2,
+          "name": "Rosa Filgueira"
+        },
+        {
+          "order": 6,
+          "name": "Ewa Deelman"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.026",
+      "loadDate": "2017-02-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "228",
+        "last": "238"
+      },
+      "pii": "S0167739X17302510",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A characterization of workflow management systems for extreme-scale applications",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302510?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Ryan N. S. Widodo"
+        },
+        {
+          "order": 2,
+          "name": "Hyotaek Lim"
+        },
+        {
+          "order": 3,
+          "name": "Mohammed Atiquzzaman"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.013",
+      "loadDate": "2017-02-10T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "145",
+        "last": "156"
+      },
+      "pii": "S0167739X16305829",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A new content-defined chunking algorithm for data deduplication in cloud storage",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16305829?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Jos\u00e9 Luis D\u00edaz"
+        },
+        {
+          "order": 2,
+          "name": "Joaqu\u00edn Entrialgo"
+        },
+        {
+          "order": 5,
+          "name": "Daniel Fernando Garc\u00eda"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.004",
+      "loadDate": "2017-02-10T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "129",
+        "last": "144"
+      },
+      "pii": "S0167739X17301954",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Optimal allocation of virtual machines in multi-cloud environments with reserved and on-demand pricing",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301954?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Yuzhu Wang"
+        },
+        {
+          "order": 2,
+          "name": "Jinrong Jiang"
+        },
+        {
+          "order": 7,
+          "name": "Albert Y. Zomaya"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.008",
+      "loadDate": "2017-02-09T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "1",
+        "last": "10"
+      },
+      "pii": "S0167739X17302017",
+      "publicationDate": "2017-07-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A scalable parallel algorithm for atmospheric general circulation models on a multi-core cluster",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17302017?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 72"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Junchao Wang"
+        },
+        {
+          "order": 2,
+          "name": "Arie Taal"
+        },
+        {
+          "order": 8,
+          "name": "Zhiming Zhao"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.001",
+      "loadDate": "2017-02-07T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "365",
+        "last": "375"
+      },
+      "pii": "S0167739X17301905",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Planning virtual infrastructures for time critical applications with multiple deadline constraints",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301905?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Hongyang Sun"
+        },
+        {
+          "order": 2,
+          "name": "Patricia Stolf"
+        },
+        {
+          "order": 3,
+          "name": "Jean-Marc Pierson"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.02.005",
+      "loadDate": "2017-02-07T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "157",
+        "last": "170"
+      },
+      "pii": "S0167739X17301966",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Spatio-temporal thermal-aware scheduling for homogeneous high-performance computing datacenters",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301966?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Hongfei Zhu"
+        },
+        {
+          "order": 2,
+          "name": "Yu-an Tan"
+        },
+        {
+          "order": 6,
+          "name": "Jun Zheng"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.031",
+      "loadDate": "2017-02-04T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "106",
+        "last": "114"
+      },
+      "pii": "S0167739X17301620",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A round-optimal lattice-based blind signature scheme for cloud services",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301620?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Somayeh Abdi"
+        },
+        {
+          "order": 2,
+          "name": "Latif PourKarimi"
+        },
+        {
+          "order": 4,
+          "name": "Farzad Zargari"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.036",
+      "loadDate": "2017-02-03T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "113",
+        "last": "128"
+      },
+      "pii": "S0167739X17301735",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Cost minimization for deadline-constrained bag-of-tasks applications in federated hybrid clouds",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301735?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Gonzalo S\u00e1nchez-Arias"
+        },
+        {
+          "order": 2,
+          "name": "Cristian Gonz\u00e1lez Garc\u00eda"
+        },
+        {
+          "order": 3,
+          "name": "B. Cristina Pelayo G-Bustelo"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.033",
+      "loadDate": "2017-02-02T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "444",
+        "last": "466"
+      },
+      "pii": "S0167739X17301632",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Midgar: Study of communications security among Smart Objects using a platform of heterogeneous devices for the Internet of Things",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301632?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30099-7",
+      "loadDate": "2017-02-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "ifc"
+      },
+      "pii": "S0167739X17300997",
+      "publicationDate": "2017-05-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Editorial Board",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300997?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 70"
+    },
+    {
+      "doi": "10.1016/S0167-739X(17)30102-4",
+      "loadDate": "2017-02-01T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "iii",
+        "last": "iv"
+      },
+      "pii": "S0167739X17301024",
+      "publicationDate": "2017-05-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Contents",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301024?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 70"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Adnan Saher Mohammed"
+        },
+        {
+          "order": 2,
+          "name": "\u015eahin Emrah Amrahov"
+        },
+        {
+          "order": 3,
+          "name": "Fatih V. \u00c7elebi"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.034",
+      "loadDate": "2017-01-31T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "102",
+        "last": "112"
+      },
+      "pii": "S0167739X17301711",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Bidirectional Conditional Insertion Sort algorithm; An efficient progress on the classical insertion sort",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17301711?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Dipanjan Roy"
+        },
+        {
+          "order": 2,
+          "name": "Anirban Sengupta"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.021",
+      "loadDate": "2017-01-27T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "89",
+        "last": "101"
+      },
+      "pii": "S0167739X16305556",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Low overhead symmetrical protection of reusable IP core using robust fingerprinting and watermarking during high level synthesis",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X16305556?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Zhicheng Cai"
+        },
+        {
+          "order": 2,
+          "name": "Xiaoping Li"
+        },
+        {
+          "order": 4,
+          "name": "Qianmu Li"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.020",
+      "loadDate": "2017-01-23T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "57",
+        "last": "72"
+      },
+      "pii": "S0167739X17300870",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "A delay-based dynamic scheduling algorithm for bag-of-task workflows with stochastic task execution times in clouds",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300870?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Vahid Arabnejad"
+        },
+        {
+          "order": 2,
+          "name": "Kris Bubendorfer"
+        },
+        {
+          "order": 3,
+          "name": "Bryan Ng"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.002",
+      "loadDate": "2017-01-18T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "348",
+        "last": "364"
+      },
+      "pii": "S0167739X17300201",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Scheduling deadline constrained scientific workflows on dynamically provisioned cloud resources",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300201?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Shadi A. Aljawarneh"
+        },
+        {
+          "order": 2,
+          "name": "Radhakrishna Vangipuram"
+        },
+        {
+          "order": 4,
+          "name": "Janaki Vinjamuri"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.013",
+      "loadDate": "2017-01-17T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "430",
+        "last": "443"
+      },
+      "pii": "S0167739X17300328",
+      "publicationDate": "2017-09-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "G-SPAMINE: An approach to discover temporal association patterns and trends in internet of things",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300328?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 74"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Renke Wu"
+        },
+        {
+          "order": 2,
+          "name": "Linpeng Huang"
+        },
+        {
+          "order": 4,
+          "name": "Haojie Zhou"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.018",
+      "loadDate": "2017-01-17T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "43",
+        "last": "56"
+      },
+      "pii": "S0167739X17300584",
+      "publicationDate": "2017-06-30",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "SunwayMR: A distributed parallel computing framework with convenient data-intensive applications programming",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300584?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 71"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Simon Woodman"
+        },
+        {
+          "order": 2,
+          "name": "Hugo Hiden"
+        },
+        {
+          "order": 3,
+          "name": "Paul Watson"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.003",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "299",
+        "last": "309"
+      },
+      "pii": "S0167739X17300213",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Applications of provenance in performance prediction and data storage optimisation",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300213?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Pinar Alper"
+        },
+        {
+          "order": 2,
+          "name": "Khalid Belhajjame"
+        },
+        {
+          "order": 3,
+          "name": "Carole A. Goble"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.004",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "310",
+        "last": "329"
+      },
+      "pii": "S0167739X17300225",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Static analysis of Taverna workflows to predict provenance patterns",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300225?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Joseph P. Macker"
+        },
+        {
+          "order": 2,
+          "name": "Ian Taylor"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.007",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "388",
+        "last": "401"
+      },
+      "pii": "S0167739X17300262",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Orchestration and analysis of decentralized workflows within heterogeneous networking infrastructures",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300262?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Daniel Garijo"
+        },
+        {
+          "order": 2,
+          "name": "Yolanda Gil"
+        },
+        {
+          "order": 3,
+          "name": "Oscar Corcho"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.008",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "271",
+        "last": "283"
+      },
+      "pii": "S0167739X17300274",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Abstract, link, publish, exploit: An end to end framework for workflow sharing",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300274?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Sarah Cohen-Boulakia"
+        },
+        {
+          "order": 2,
+          "name": "Khalid Belhajjame"
+        },
+        {
+          "order": 14,
+          "name": "Christophe Blanchet"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.012",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "284",
+        "last": "298"
+      },
+      "pii": "S0167739X17300316",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Scientific workflows for computational reproducibility in the life sciences: Status, challenges and opportunities",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300316?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Suyel Namasudra"
+        },
+        {
+          "order": 2,
+          "name": "Pinki Roy"
+        },
+        {
+          "order": 5,
+          "name": "Balamurugan Balusamy"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.017",
+      "loadDate": "2017-01-16T00:00:00.000Z",
+      "openAccess": false,
+      "pages": {
+        "first": "90",
+        "last": "105"
+      },
+      "pii": "S0167739X17300572",
+      "publicationDate": "2017-08-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Time efficient secure DNA based access control model for cloud computing environment",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300572?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 73"
+    },
+    {
+      "authors": [
+        {
+          "order": 1,
+          "name": "Tristan Glatard"
+        },
+        {
+          "order": 2,
+          "name": "Marc-\u00c9tienne Rousseau"
+        },
+        {
+          "order": 14,
+          "name": "Alan C. Evans"
+        }
+      ],
+      "doi": "10.1016/j.future.2017.01.005",
+      "loadDate": "2017-01-14T00:00:00.000Z",
+      "openAccess": true,
+      "pages": {
+        "first": "239",
+        "last": "255"
+      },
+      "pii": "S0167739X17300249",
+      "publicationDate": "2017-10-31",
+      "sourceTitle": "Future Generation Computer Systems",
+      "title": "Software architectures to integrate workflow engines in science gateways",
+      "uri": "https://www.sciencedirect.com/science/article/pii/S0167739X17300249?dgcid=api_sd_search-api-endpoint",
+      "volumeIssue": "Volume 75"
+    }
+  ],
+  "details": {}
+}
